@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "@angular/core": "^18.2.2",
-    "@angular/fire": "^18.0.1",
-    "@angular/platform-browser": "^18.2.2",
-    "@angular/router": "^18.2.2",
-    "firebase": "^10.13.1"
-  }
-}
